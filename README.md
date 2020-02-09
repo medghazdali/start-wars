@@ -1,7 +1,12 @@
 # start-wars
-start-wars projet integration
+start-wars projet integration :
+-Bootsrap 4
+-javascript
+-jquery
 
-#Browser compatibility
-The plugin has been tested in Chrome, Firefox and Internet Explorer 8+.
+# parallax script
+/assets/js/script.js
 
+# Browser compatibility
+Le plugin a été testé dans Chrome, Firefox et Internet Explorer 8+.
 
