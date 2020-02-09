@@ -4,12 +4,11 @@ star-wars projet integration :
 -javascript
 -jquery
 
-# parallax script
+# Parallax script
 /assets/js/script.js
 
 # Browser compatibility
 Le plugin a été testé dans Chrome, Firefox et Internet Explorer 8+.
 
 # Demo
-https://github.com/medghazdali/start-wars/edit/master/README.md
-
+http://m-ghazdali.000webhostapp.com/
