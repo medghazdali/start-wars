@@ -1,0 +1,27 @@
+@media only screen and (max-width: 600px) {
+    .custom-nav-mobile {
+        display: block !important;
+    }
+    #section2 {
+        background: url(../img/kiloren.png);
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* min-height: 500px; */
+        background-size: auto;
+        height: 100vh;
+        height: 50vh;
+        background-size: auto 50vh;
+    }
+    .custom-bar-right {
+        /* justify-content: end !important; */
+        background: #333;
+        background-image: url(../img/header-bg.png) !important;
+        height: 100vh;
+        /* padding-top: 10px; */
+        /* display: -webkit-inline-box; */
+        padding-bottom: 525px !important;
+    }
+}
